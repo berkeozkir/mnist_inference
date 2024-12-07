@@ -33,7 +33,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/mnist-digit-classifier.git
+   git clone https://github.com/berkeozkir/mnist_inference.git
    cd mnist-digit-classifier
 
 2. **Install the required Python packages**:
