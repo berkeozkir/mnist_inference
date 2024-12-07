@@ -7,7 +7,7 @@ This project is a web application built with **Streamlit** that allows users to 
 ## Features
 
 - **Interactive Canvas**: Draw digits directly on the canvas using your mouse or touch input.
-- **Real-Time Predictions**: Classify handwritten digits using a PyTorch-based CNN.
+- **Fast Predictions**: Classify handwritten digits using a PyTorch-based CNN.
 - **Visualization**: View the drawn digit and its processed image before classification.
 - **User-Friendly Interface**: Designed with Streamlit for seamless interaction.
 
